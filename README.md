@@ -40,7 +40,7 @@
     <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>
     <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
     <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-    <a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lua.png" alt="Lua" height="50" /></a>
+    <a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="50" /></a>
   </div>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
