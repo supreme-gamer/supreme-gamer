@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supreme-gamer" alt="supreme-gamer" /></a> </p>
 
-- 🌱 I’m currently learning **LLM & NLP**
+- 🌱 I’m currently writing my new Sci-Fi Novel and open for proposals
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/KorvinsNest](https://linktr.ee/KorvinsNest)
+- 👨‍💻 All of my projects, portfolio and personal sites are available at [My LinkTree](https://linktr.ee/KorvinsNest)
 
-- 📝 I regularly write articles on [https://habr.com/ru/users/Korvin_Melarsky/](https://habr.com/ru/users/Korvin_Melarsky/)
-
-- 💬 Ask me about **building QA processes ang Agile frameworks**
-
-- 📫 How to reach me **senior.qa.top1@gmail.com**
+- 💬 You can ask me about **building QA processes and Agile frameworks from scratch** at [GetMentor](https://getmentor.dev/mentor/nikolay-nemkovich-2996)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nikolayn1988/](https://www.linkedin.com/in/nikolayn1988/)
+
+- 📝 I regularly write IT articles on [Habr](https://habr.com/ru/users/Korvin_Melarsky/)
+
+- 📫 How to reach me **senior.qa.top1@gmail.com**
 
 - ⚡ Fun fact **I am a sportsman & training all my life in archery, chess & kendo**
 
