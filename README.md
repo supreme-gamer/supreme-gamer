@@ -11,7 +11,7 @@
 
 - 📄 Explore my career path over the last 10 years from QA to Lead at **[HabrCareer](https://career.habr.com/senior-qa-top1/)**
 
-- ⚡ Join my professional network at **[LinkedIn](https://www.linkedin.com/in/nikolayn1988/)**
+- ⚡ Join my professional network and strengthen your future at **[LinkedIn](https://www.linkedin.com/in/nikolayn1988/)**
 
 - 📝 Read my IT articles and insides on **[Habr](https://habr.com/ru/users/Korvin_Melarsky/)**
 
