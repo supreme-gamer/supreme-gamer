@@ -7,15 +7,15 @@
 
 - 👨‍💻 All of my projects, portfolio and personal sites are available at [My LinkTree](https://linktr.ee/KorvinsNest)
 
-- 💬 You can ask me about **building QA processes and Agile frameworks from scratch** at [GetMentor](https://getmentor.dev/mentor/nikolay-nemkovich-2996)
+- 💬 Ask me about **building QA processes and Agile frameworks from scratch** at [GetMentor](https://getmentor.dev/mentor/nikolay-nemkovich-2996)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nikolayn1988/](https://www.linkedin.com/in/nikolayn1988/)
-
-- 📝 I regularly write IT articles on [Habr](https://habr.com/ru/users/Korvin_Melarsky/)
-
-- 📫 How to reach me **senior.qa.top1@gmail.com**
+- 📄 Explore my career path at [HabrCareer](https://career.habr.com/senior-qa-top1/)
 
 - ⚡ Fun fact **I am a sportsman & training all my life in archery, chess & kendo**
+
+- 📝 Read my IT articles on [Habr](https://habr.com/ru/users/Korvin_Melarsky/)
+
+- 📫 Contact me by **senior.qa.top1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
