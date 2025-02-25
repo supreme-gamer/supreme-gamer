@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikolay Nemkovych</h1>
 <h3 align="center">Senior QA | QA Manager | QA Mentor | SCRUM Master | Agile Coach | API Security Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supreme-gamer&label=Profile%20views&color=0e75b6&style=flat" alt="supreme-gamer" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supreme-gamer" alt="supreme-gamer" /></a> </p>
 
 - 🌱 I’m currently learning **LLM & NLP**
@@ -32,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supreme-gamer&show_icons=true&locale=en" alt="supreme-gamer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supreme-gamer&" alt="supreme-gamer" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supreme-gamer&label=Profile%20views&color=0e75b6&style=flat" alt="supreme-gamer" /> </p>
