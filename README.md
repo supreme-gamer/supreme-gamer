@@ -17,9 +17,12 @@
 
 - 📫 Contact me by **senior.qa.top1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Languages I know:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikolayn1988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikolayn1988" height="30" width="40" /></a>
+  🇷🇺 <strong>Russian</strong> - Native<br>
+  🇺🇦 <strong>Ukrainian</strong> - Bilingual<br>
+  🇬🇧 <strong>English</strong> - C1<br>
+  🇩🇪 <strong>German</strong> - Beginner
 </p>
 
 <h3 align="left">My Stack and Tools:</h3>
