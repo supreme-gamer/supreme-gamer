@@ -9,11 +9,11 @@
 
 - 💬 Ask me about building QA processes and Agile frameworks from scratch at **[GetMentor](https://getmentor.dev/mentor/nikolay-nemkovich-2996)**
 
-- 📄 Explore my career path over the last 10 years at **[HabrCareer](https://career.habr.com/senior-qa-top1/)**
+- 📄 Explore my career path over the last 10 years from QA to Lead at **[HabrCareer](https://career.habr.com/senior-qa-top1/)**
 
 - ⚡ Join my professional network at **[LinkedIn](https://www.linkedin.com/in/nikolayn1988/)**
 
-- 📝 Read my IT articles on **[Habr](https://habr.com/ru/users/Korvin_Melarsky/)**
+- 📝 Read my IT articles and insides on **[Habr](https://habr.com/ru/users/Korvin_Melarsky/)**
 
 - 📫 Contact me by **senior.qa.top1@gmail.com**
 
