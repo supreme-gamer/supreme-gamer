@@ -59,10 +59,22 @@
   </div>
 </div>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=supreme-gamer&show_icons=true&locale=en&layout=compact" alt="supreme-gamer" /></p>
+GitHub Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supreme-gamer&show_icons=true&locale=en" alt="supreme-gamer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supreme-gamer&" alt="supreme-gamer" /></p>
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/supreme-gamer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=supreme-gamer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nikolay Nemkovych github stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/supreme-gamer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supreme-gamer&layout=compact&theme=buefy&hide_border=true" /></a>
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2 align="center">
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=supreme-gamer&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Nikolay Nemkovych GitHub Streak Stats" /> </a>
+  </td>
+  </tr>
+</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreme-gamer&label=Profile%20views&color=0e75b6&style=flat" alt="supreme-gamer" /> </p>
