@@ -21,7 +21,7 @@
 <p align="left">
   🇷🇺 <strong>Russian</strong> - Native<br>
   🇺🇦 <strong>Ukrainian</strong> - Bilingual<br>
-  🇬🇧 <strong>English</strong> - C1<br>
+  🇬🇧 <strong>English</strong> - Advanced (C1)<br>
   🇩🇪 <strong>German</strong> - Beginner
 </p>
 
