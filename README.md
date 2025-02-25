@@ -11,7 +11,7 @@
 
 - 📄 Explore my career path at [HabrCareer](https://career.habr.com/senior-qa-top1/)
 
-- ⚡ Fun fact **I am a sportsman & training all my life in archery, chess & kendo**
+- ⚡ Join my network at [LinkedIn](https://www.linkedin.com/in/nikolayn1988/)
 
 - 📝 Read my IT articles on [Habr](https://habr.com/ru/users/Korvin_Melarsky/)
 
