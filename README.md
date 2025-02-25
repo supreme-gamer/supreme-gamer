@@ -22,7 +22,7 @@
   🇷🇺 <strong>Russian</strong> - Native<br>
   🇺🇦 <strong>Ukrainian</strong> - Bilingual<br>
   🇬🇧 <strong>English</strong> - Advanced (C1)<br>
-  🇩🇪 <strong>German</strong> - Beginner
+  🇩🇪 <strong>German</strong> - Elementary (A2)<br>
 </p>
 
 <h3 align="left">My Stack and Tools:</h3>
