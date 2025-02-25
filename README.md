@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supreme-gamer" alt="supreme-gamer" /></a> </p>
 
-- 🌱 I’m currently writing my new Sci-Fi Novel and open for proposals
+- 🌱 I’m currently writing my new Sci-Fi Novel and open for challenging proposals
 
-- 👨‍💻 All of my projects, portfolio and personal sites are available at [My LinkTree](https://linktr.ee/KorvinsNest)
+- 👨‍💻 All of my projects, portfolio and personal sites are available at **[My LinkTree](https://linktr.ee/KorvinsNest)**
 
-- 💬 Ask me about **building QA processes and Agile frameworks from scratch** at [GetMentor](https://getmentor.dev/mentor/nikolay-nemkovich-2996)
+- 💬 Ask me about building QA processes and Agile frameworks from scratch at **[GetMentor](https://getmentor.dev/mentor/nikolay-nemkovich-2996)**
 
-- 📄 Explore my career path over the last 10 years at [HabrCareer](https://career.habr.com/senior-qa-top1/)
+- 📄 Explore my career path over the last 10 years at **[HabrCareer](https://career.habr.com/senior-qa-top1/)**
 
-- ⚡ Join my professional network at [LinkedIn](https://www.linkedin.com/in/nikolayn1988/)
+- ⚡ Join my professional network at **[LinkedIn](https://www.linkedin.com/in/nikolayn1988/)**
 
-- 📝 Read my IT articles on [Habr](https://habr.com/ru/users/Korvin_Melarsky/)
+- 📝 Read my IT articles on **[Habr](https://habr.com/ru/users/Korvin_Melarsky/)**
 
 - 📫 Contact me by **senior.qa.top1@gmail.com**
 
