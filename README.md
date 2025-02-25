@@ -59,7 +59,7 @@
   </div>
 </div>
 
-GitHub Stats :
+<h3 align="left">GitHub Stats: </h3>
 
 <table align="center">
   <tr>
