@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently writing my new Sci-Fi Novel and open for challenging proposals
 
-- 👨‍💻 All of my projects, portfolio and personal sites are available at **[My LinkTree](https://linktr.ee/KorvinsNest)**
+- 👨‍💻 All of my projects, portfolio and personal sites are available at **[My LinkTree]()**
 
 - 💬 Ask me about building QA processes and Agile frameworks from scratch at **[GetMentor](https://getmentor.dev/mentor/nikolay-nemkovich-2996)**
 
