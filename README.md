@@ -64,15 +64,15 @@
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/supreme-gamer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=supreme-gamer&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nikolay Nemkovych github stats" /></a>
+  <a href="https://github.com/supreme-gamer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=supreme-gamer&theme=default&include_all_commits=false&count_private=false&hide_border=true" alt="Nikolay Nemkovych github stats" /></a>
   </td>
   <td>
-  <a href="https://github.com/supreme-gamer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supreme-gamer&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/supreme-gamer/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supreme-gamer&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></a>
   </td>
   </tr>
   <tr>
   <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=supreme-gamer&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Nikolay Nemkovych GitHub Streak Stats" /> </a>
+  <a href="https://git.io/streak-stats"> <img src="https://nirzak-streak-stats.vercel.app/?user=supreme-gamer&theme=default&hide_border=true&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Nikolay Nemkovych GitHub Streak Stats" /> </a>
   </td>
   </tr>
 </table>
