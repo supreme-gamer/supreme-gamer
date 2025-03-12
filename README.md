@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolay Nemkovych</h1>
-<h3 align="center">Senior QA | QA Manager | QA Mentor | SCRUM Master | Agile Coach | API Security Analyst | APIsec U Ambassador</h3>
+<h3 align="center">Senior QA | QA Manager | QA Mentor | SCRUM Master | Agile Coach | API Security Analyst <br> APIsec University Ambassador</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supreme-gamer" alt="supreme-gamer" /></a> </p>
 
